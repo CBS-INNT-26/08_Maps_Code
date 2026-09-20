@@ -32,7 +32,8 @@
           "locationAlwaysAndWhenInUsePermission": "Tillad INNT Map App at bruge din lokation til at vise den på kortet."
         }
       ],
-      "expo-font"
+      "expo-font",
+      "expo-status-bar"
     ]
   }
 }
